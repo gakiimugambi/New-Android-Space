@@ -344,6 +344,10 @@ public class PostRecyclerAdapter extends RecyclerView.Adapter<PostRecyclerAdapte
             postshare=mView.findViewById(R.id.post_comment_share);
         }
 
+        public void EditButton(View ButtonView){
+            
+        }
+
         public void setTitleText(String titleText) {
             titleView = mView.findViewById(R.id.post_title);
             titleView.setText(titleText);

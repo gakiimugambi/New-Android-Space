@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button
+    android:id="@+id/simpleEditText"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:hint="Edit Post Comment"
+    android:padding="15dp"
+    android:textColorHint="#fff"
+    android:textStyle="bold|italic"
+    android:background="#000">
+<!--set background color black-->
+</Button>
